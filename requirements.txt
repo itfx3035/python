@@ -1,0 +1,4 @@
+PyPDF2
+Django
+Gunicorn
+django-heroku
